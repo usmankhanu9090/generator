@@ -1,4 +1,5 @@
-# Password Generator - Generate a Random Password
+# Password Generator.
+Generate a Random Password.
 
 This Python script generates a random password using letters, digits, and punctuation. You can specify the desired password length or use the default length of 12 characters.
 
