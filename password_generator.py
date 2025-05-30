@@ -1,6 +1,5 @@
 import random
-import string
-import os 
+import strings
 
 # Function to generate a random password
 def generate_password(length=12):
