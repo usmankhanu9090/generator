@@ -13,7 +13,7 @@ def main():
     print("Password Generator - Generate a Random Password")
     try:
         length = int(input("Enter the desired password length (default is 12): ") or 12)
-        if length <= 0:
+        if length >= 0:
             print("Password length must be a positive integer.")
             return
         
