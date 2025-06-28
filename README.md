@@ -1,6 +1,5 @@
 # Password Generator.
 This Python script generates a random password using letters, digits, and punctuation. 
-
 You can specify the desired password length or use the default length of 12 characters.
 
 ## Features
@@ -10,9 +9,6 @@ You can specify the desired password length or use the default length of 12 char
 
 ## How to Use
 1. Clone or download the repository.
-2. Run the script:
-   ```bash
-   python password_generator.py
 
 ## Example Output
 ```bash
